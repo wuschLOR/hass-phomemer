@@ -1,0 +1,10 @@
+name: Phomemer
+version: "0.1.1"
+slug: phomemer
+description: 'Home Assistant Add-on: Phomemer'
+url: "https://github.com/wuschLOR/hass-phomemer/tree/main/phomemer"
+arch:
+  - amd64
+init: false
+
+
