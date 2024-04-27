@@ -1,10 +1,15 @@
 name: Phomemer
 description: "Home Assistant Add-on: Phomemer"
 url: "https://github.com/wuschLOR/hass-phomemer/tree/main/phomemer"
-version: "0.1.21"
+version: "0.1.22"
 slug: phomemer
 init: false
+
 host_network: true
+
+ingress: true
+panel_icon: mdi:mushroom
+panel_title: Phomemer
 
 arch:
   - amd64
